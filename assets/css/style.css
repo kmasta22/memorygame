@@ -106,7 +106,7 @@ h1 {
     text-align: center;
     display: grid;
             grid-template-rows: auto;
-            grid-template-columns: 200px 200px 200px 200px;
+            grid-template-columns: auto;
            
 }
 
@@ -142,3 +142,11 @@ h1 {
 
 
 }
+
+#fear {
+   
+    grid-row-start: 1;
+    grid-column-start: 5;
+  
+ 
+ }
